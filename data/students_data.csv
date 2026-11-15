@@ -1,0 +1,51 @@
+﻿student_id,current_program_code,enrollment_status,completion_percentage,qualification,degree_name,completion_year,experience_years,designation,working_status,current_industry,previous_industry
+STU001,IIMV-EPLAI,completed,100,MBA,MBA - Finance,2008,15,Senior Manager - Digital Transformation,yes,BFSI,IT
+STU002,IIM-TRICHY-CTO,completed,100,B.Tech,B.Tech - Computer Science,2005,18,Chief Technology Officer,yes,IT,Telecommunications
+STU003,ACPAIL,completed,100,M.Tech,M.Tech - Computer Science,2012,10,Head of AI Engineering,yes,IT,E-commerce
+STU004,EPGAIL,completed,100,MBA,MBA - Marketing,2010,13,VP - Business Strategy,yes,Consulting,FMCG
+STU005,IITH-EPDTI,completed,100,MBA,MBA - Design Management,2009,16,Director - Innovation,yes,Manufacturing,IT
+STU006,IITH-SPM,completed,100,B.Tech,B.Tech - Mechanical Engineering,2007,16,Senior Project Manager,yes,Infrastructure,Manufacturing
+STU007,IIM-Raipur-GSLP,completed,100,MBA,MBA - Operations,2006,17,General Manager - Operations,yes,Manufacturing,Logistics
+STU008,IIML-CXO,completed,100,MBA,MBA - Human Resources,2004,20,Chief Human Resources Officer,yes,BFSI,IT
+STU009,PGDMEx,completed,100,PGDM,PGDM - General Management,2003,21,Business Unit Head,yes,Retail,FMCG
+STU010,EPSLIAI,completed,100,MBA,MBA - Information Systems,2011,12,Director - Data & Analytics,yes,BFSI,Consulting
+STU011,IIM-Ranchi-EPGAAI,completed,100,MCA,MCA,2013,10,Technology Program Director,yes,IT,Telecommunications
+STU012,IIMV-EAGL,completed,100,MBA,MBA - Strategy,2008,17,VP - Digital Business,yes,Consulting,BFSI
+STU013,CDAIO,completed,100,PhD,PhD - Computer Science,2005,19,Chief Data & Analytics Officer,yes,BFSI,IT
+STU014,DHRL,completed,100,MBA,MBA - Human Resources,2012,11,HR Director,yes,IT,FMCG
+STU015,SHRL,completed,100,MA,MA - Human Resource Management,2015,8,Senior HR Business Partner,yes,Pharmaceuticals,Healthcare
+STU016,SMP,completed,100,MBA,MBA - General Management,2007,16,Senior Vice President,yes,BFSI,Consulting
+STU017,EPSL,completed,100,MBA,MBA - Human Resources,2011,12,Learning & Development Head,yes,IT,Manufacturing
+STU018,XLRIJ-EDPGSM,completed,100,PGDM,PGDM - Business Management,2006,17,Director - Operations,yes,Retail,Logistics
+STU019,GAL-C1,completed,100,B.Tech,B.Tech - Information Technology,2018,6,AI Product Manager,yes,IT,BFSI
+STU020,LAI-C1,completed,100,MBA,MBA - Leadership,2006,18,VP - Technology,yes,Telecommunications,IT
+STU021,PCAIL,completed,100,MBA,MBA - Business Analytics,2011,12,Head - Data Science,yes,Consulting,BFSI
+STU022,IIML-EPSPML,completed,100,MBA,MBA - Project Management,2010,13,Program Management Director,yes,IT,Infrastructure
+STU023,IIMA-SMP,completed,100,MBA,MBA - Finance,2004,19,Chief Financial Controller,yes,Manufacturing,BFSI
+STU024,IIMV-CEO,completed,100,MBA,MBA - General Management,2001,23,Chief Operating Officer,yes,Healthcare,Pharmaceuticals
+STU025,IIML-CDAP,completed,100,M.Tech,M.Tech - Data Science,2014,9,Chief Digital Transformation Officer,yes,BFSI,IT
+STU026,IIMV-CTO,completed,100,B.Tech,B.Tech - Electronics,2003,20,Chief Technology Officer,yes,Telecommunications,IT
+STU027,IIM-Ranchi-EPLAI,completed,100,MBA,MBA - Information Technology,2012,11,AI Transformation Lead,yes,Consulting,BFSI
+STU028,IIM-Ranchi-SL,completed,100,MBA,MBA - Strategy,2005,18,Director - Corporate Strategy,yes,Energy,Manufacturing
+STU029,IIMR-SM,completed,100,MBA,MBA - Finance,2007,16,Senior Management Consultant,yes,Consulting,BFSI
+STU030,CHRO,completed,100,MBA,MBA - Human Resources,2002,22,Group CHRO,yes,Manufacturing,FMCG
+STU031,IIMV-EPPMT,in_progress,82,B.Tech,B.Tech - Civil Engineering,2010,13,Head - Project Management Office,yes,Infrastructure,Construction
+STU032,EPLAI,in_progress,87,MBA,MBA - Marketing,2009,14,Head - Business Transformation,yes,FMCG,Retail
+STU033,CFO,in_progress,91,CA,Chartered Accountant,2001,22,Chief Financial Officer,yes,BFSI,Consulting
+STU034,GSL,in_progress,95,MBA,MBA - Operations,2006,17,Group Strategy Leader,yes,Logistics,Manufacturing
+STU035,IIM-Kashipur-COO,in_progress,98,B.Tech,B.Tech - Mechanical Engineering,2004,19,Chief Operating Officer,yes,Automotive,Manufacturing
+STU036,IIMR-CHRO,in_progress,82,MBA,MBA - Human Resources,2005,18,Chief Human Resources Officer,yes,IT,BFSI
+STU037,IIMV-EPLAI,in_progress,87,MBA,MBA - Finance,2015,8,Finance Business Partner,yes,BFSI,Retail
+STU038,ACPAIL,in_progress,91,B.Tech,B.Tech - Computer Science,2019,5,Senior Software Engineer,yes,IT,E-commerce
+STU039,EPGAIL,in_progress,95,MBA,MBA - Business Administration,2008,15,Regional Business Head,yes,Retail,FMCG
+STU040,IIMV-EAGL,in_progress,98,MBA,MBA - HR,2010,13,Talent Management Head,yes,Healthcare,IT
+STU041,CDAIO,in_progress,82,M.Sc,M.Sc - Data Science,2020,3,Data Scientist,yes,IT,Education
+STU042,DHRL,in_progress,87,MBA,MBA - Operations,2016,7,Project Manager,yes,Manufacturing,Consulting
+STU043,SMP,in_progress,91,MBA,MBA - Finance,2013,10,Finance Director,yes,Pharmaceuticals,BFSI
+STU044,GAL-C1,in_progress,95,MBA,MBA - Marketing,2018,5,Product Manager,yes,E-commerce,FMCG
+STU045,LAI-C1,in_progress,98,B.E.,B.E. - Computer Science,2021,2,Software Developer,yes,IT,Education
+STU046,PCAIL,in_progress,82,MBA,MBA - Human Resources,2017,6,HR Manager,yes,BFSI,IT
+STU047,IIMV-CEO,in_progress,87,B.Com,B.Com,2023,0,Recent Graduate,no,,
+STU048,IIML-CDAP,in_progress,91,M.Sc,M.Sc - Computer Science,2019,4,Business Intelligence Analyst,yes,Consulting,BFSI
+STU049,IIMV-CTO,in_progress,95,MBA,MBA - Strategy,2002,21,Managing Director,yes,Manufacturing,Automotive
+STU050,CHRO,in_progress,98,MBA,MBA - Human Resources,2014,9,Head - People & Culture,yes,IT,Telecommunications
